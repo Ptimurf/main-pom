@@ -8,9 +8,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.mycompany.app</groupId>
+    <groupId>com.shop</groupId>
     <artifactId>common-pom</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>common-pom</name>
 
     <properties>
