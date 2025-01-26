@@ -12,6 +12,7 @@
     <artifactId>common-pom</artifactId>
     <version>0.0.1</version>
     <name>common-pom</name>
+    <packaging>pom</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
